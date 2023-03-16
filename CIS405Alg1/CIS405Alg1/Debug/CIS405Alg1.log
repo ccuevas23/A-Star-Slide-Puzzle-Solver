@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\cptn_\source\repos\CIS405Alg1\CIS405Alg1\Source.cpp(197,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\cptn_\source\repos\CIS405Alg1\CIS405Alg1\Source.cpp(192,8): warning C4101: 'tempBoard': unreferenced local variable
-C:\Users\cptn_\source\repos\CIS405Alg1\CIS405Alg1\Source.cpp(310,21): warning C4018: '<': signed/unsigned mismatch
-  CIS405Alg1.vcxproj -> C:\Users\cptn_\source\repos\CIS405Alg1\Debug\CIS405Alg1.exe
